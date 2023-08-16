@@ -1,16 +1,47 @@
-### Hi there 👋
+<div id="header" align="center">
+    <h3 align="center">Give a man a program, and he'll be frustrated for a day.<br>Teach a man to program, and he'll be frustrated for a lifetime.</h3> 
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250"/>
+</div>
 
-<!--
-**EddieCarrera/EddieCarrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://eddiecarrera.webflow.io">
+    <img src="https://img.shields.io/badge/Personal Website-grey?style=for-the-badge&logo=webflow&logoColor=white" alt="Website Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/eddiecarrera">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a> -->
+</div>
+  
+---
 
-Here are some ideas to get you started:
+### :technologist: About Me :
+Exposure to the various branches of electrical engineering during my time at UCSD makes me a well-rounded engineer who understands the discipline as a whole. However, I've found my passion to be in embedded systems and digital signal processing (DSP). I enjoy designing real-time systems capable of efficiently driving DSP algorithms despite memory and speed constraints inherent within most embedded systems. I thrive in environments where I can prototype, design, develop, and optimize such systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm most happy when I've encouraged others to learn. I enjoy engaging with curious minds and think good communication is key towards making engineering exciting for everyone. I promote encouraging enviroments where I can teach and guide others; whether it's explaining engineering theories, discussing new technolgies, career advice, or showcasing new projects.
+
+On my free time I enjoy pursing my endless string of hobbies; developing embedded projects, reading fictions at random cafes, beekeeping, and mead-making.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,aws,c,cpp,cmake,docker,eclipse,git,github,gitlab,latex,linux,matlab,octave,postgres,powershell,py,raspberrypi,stackoverflow,vim,visualstudio,vscode,webflow," />
+  </a>
+</p>
+
+---
+
+
+### My Stats :
+<div id="stats" align="center">
+  <a href="https://github.com/EddieCarrera/github-readme-stats">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=EddieCarrera&show_icons=true&theme=nightowl"/>
+  </a>
+  <a href="https://github.com/EddieCarrera/convoychat">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieCarrera&theme=nightowl&layout=compact&langs_count=8" />
+  </a>
+</div>
