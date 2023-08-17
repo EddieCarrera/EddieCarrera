@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h3 align="center">Give a man a program, and he'll be frustrated for a day.<br>Teach a man to program, and he'll be frustrated for a lifetime.</h3> 
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250"/>
+    <h2 align="center">Give a man a program, and he'll be frustrated for a day.<br>Teach a man to program, and he'll be frustrated for a lifetime.</h2> 
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="265"/>
 </div>
 
 <div id="badges" align="center">
@@ -29,7 +29,7 @@ On my free time I enjoy pursing my endless string of hobbies; developing embedde
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,aws,c,cpp,cmake,docker,eclipse,git,github,gitlab,latex,linux,matlab,octave,postgres,powershell,py,raspberrypi,stackoverflow,vim,visualstudio,vscode,webflow," />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,cmake,py,docker,eclipse,linux,raspberrypi,matlab,octave,postgres,powershell,git,github,gitlab,latex,stackoverflow,vim,visualstudio,vscode,webflow,aws" />
   </a>
 </p>
 
@@ -37,11 +37,18 @@ On my free time I enjoy pursing my endless string of hobbies; developing embedde
 
 
 ### My Stats :
+
 <div id="stats" align="center">
-  <a href="https://github.com/EddieCarrera/github-readme-stats">
+  <a href="https://github.com/EddieCarrera/github-readme-stats#gh-light-mode-only">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=EddieCarrera&show_icons=true&theme=shadow_blue"/>
+  </a>
+  <a href="https://github.com/EddieCarrera/convoychat#gh-light-mode-only">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieCarrera&theme=shadow_blue&layout=compact&langs_count=8" />
+  </a>
+  <a href="https://github.com/EddieCarrera/github-readme-stats#gh-dark-mode-only">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=EddieCarrera&show_icons=true&theme=nightowl"/>
   </a>
-  <a href="https://github.com/EddieCarrera/convoychat">
+  <a href="https://github.com/EddieCarrera/convoychat#gh-dark-mode-only">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieCarrera&theme=nightowl&layout=compact&langs_count=8" />
   </a>
 </div>
