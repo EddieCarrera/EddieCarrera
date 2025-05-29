@@ -21,11 +21,13 @@
 ---
 
 ### :technologist: About Me :
-Exposure to the various branches of electrical engineering during my time at UCSD makes me a well-rounded engineer who understands the discipline as a whole. However, I've found my passion to be in embedded systems and digital signal processing (DSP). I enjoy designing real-time systems capable of efficiently driving DSP algorithms despite memory and speed constraints inherent within most embedded systems. I thrive in environments where I can prototype, design, develop, and optimize such systems.
+I'm an electrical engineer with a strong focus on real-time embedded systems and digital signal processing (DSP). I specialize in implementing DSP algorithms on platforms with limited memory and processing resources, typical of embedded systems. I often work in fast-paced R&D environments where prototyping, iteration, and deep system-level understanding are essential.
 
-I'm most happy when I've encouraged others to learn. I enjoy engaging with curious minds and think good communication is key towards making engineering exciting for everyone. I promote encouraging enviroments where I can teach and guide others; whether it's explaining engineering theories, discussing new technolgies, career advice, or showcasing new projects.
+My work frequently involves developing robust, field-deployable systems that interface with a variety of analog and digital sensors, as well as RF communication protocols, across both bare-metal and Linux-based applications. I have a track record of developing complex ultra-low-power embedded platforms from the ground up, designing both hardware and firmware to meet demanding real-world requirements.
 
-On my free time I enjoy pursing my endless string of hobbies; developing embedded projects, reading fictions at random cafes, beekeeping, and mead-making.
+Beyond technical execution, I value collaborative engineering culture. I actively mentor peers and foster learning through clear, effective communication — whether discussing engineering trade-offs, evaluating new technologies, or teaching others about the nuances of embedded systems. I strive to create environments where curiosity and technical rigor coexist.
+
+Outside of work, I enjoy pursuing personal embedded projects and hands-on hobbies like gardening, beekeeping, mead-making, and writing.
 
 ---
 
