@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://eddiecarrera.webflow.io">
+  <a href="https://stackseq.com">
     <img src="https://img.shields.io/badge/Personal Website-grey?style=for-the-badge&logo=webflow&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/eddiecarrera">
