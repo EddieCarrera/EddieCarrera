@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/eddiecarrera">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <h2 align="center">:warning: Most of my repos are private now as a protest against AI scrapers stealing code :warning:</h2> 
 <!--   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> -->
@@ -39,21 +40,3 @@ Outside of work, I enjoy pursuing personal embedded projects and hands-on hobbie
 </p>
 
 ---
-
-
-### My Stats :
-
-<div id="stats" align="center">
-  <a href="https://github.com/EddieCarrera/github-readme-stats#gh-light-mode-only">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=EddieCarrera&show_icons=true&theme=shadow_blue"/>
-  </a>
-  <a href="https://github.com/EddieCarrera/convoychat#gh-light-mode-only">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieCarrera&theme=shadow_blue&layout=compact&langs_count=8" />
-  </a>
-  <a href="https://github.com/EddieCarrera/github-readme-stats#gh-dark-mode-only">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=EddieCarrera&show_icons=true&theme=nightowl"/>
-  </a>
-  <a href="https://github.com/EddieCarrera/convoychat#gh-dark-mode-only">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieCarrera&theme=nightowl&layout=compact&langs_count=8" />
-  </a>
-</div>
